@@ -7,14 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ijehangirkhan.ijehangirkhan)
 
+I am a DevOps Engineer. I love automating, and writing scripts.
+
 <img align="right" alt="GIF" src="https://github.com/ijehangirkhan/ijehangirkhan/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-**Know more about me**
-- 🏢 I’m currently working as DevOps Engineer in [Eurus Technologies](https://www.eurustechnologies.com/)
+**Talking about Personal Stuffs:**
+
+- 🏢 I’m currently working in [Eurus Technologies](https://www.eurustechnologies.com/)
 - 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
 - 💬 Ask me about anything, I am happy to help;
 - ⏳ Interests: Travelling, Crypto Currencies
 - 📝[Resume](https://www.jehangirkhan.me)
+
+</br>
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."--Charles Darwin
 
