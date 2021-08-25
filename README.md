@@ -47,7 +47,7 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 |Configuration Management      |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)                                                                                                                                                 |
 |Infrastructure as Code        |![](https://img.shields.io/badge/Terraform-3-9400D3?labelColor=7D898B)                                                                                                                                               |
 |Web Server                    |![](https://img.shields.io/badge/Nginx-2-green?labelColor=7D898B)                                                                                                                                                    |
-|Scripting Tools               |![](https://img.shields.io/badge/Bash-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-2-green?labelColor=7D898B)                                                                                  |
-|Cloud Services                |![](https://img.shields.io/badge/AWS-2-green?labelColor=7D898B)                                                                                                                                                      |
+|Scripting Tools               |![](https://img.shields.io/badge/Bash-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-3-green?labelColor=7D898B)                                                                                  |
+|Cloud Services                |![](https://img.shields.io/badge/AWS-3-green?labelColor=7D898B)                                                                                                                                                      |
 
 ⏰ Updated on Wed, 25 Aug 2021 01:30 AM GMT
