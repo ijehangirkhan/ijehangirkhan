@@ -13,7 +13,7 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 
 **Talking about Personal Stuffs:**
 
-- 🏢 I’m currently working in [Eurus Technologies](https://www.eurustechnologies.com/)
+- 🏢 I’m currently working as a DevOps Engineer at [Eurus Technologies](https://www.eurustechnologies.com/)
 - 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
 - 💬 Ask me about anything, I am happy to help;
 - ⏳ Interests: Travelling, Crypto Currencies
