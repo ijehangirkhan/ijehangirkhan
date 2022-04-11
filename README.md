@@ -1,7 +1,7 @@
 # Hey there, I'm Jehangir Khan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ijehangirkhan)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jehangirkhan.me)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jehangir.me)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ijehangirkhan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ijehangirkhan)
 
@@ -17,7 +17,7 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 - 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
 - 💬 Ask me about anything, I am happy to help;
 - ⏳ Interests: Travelling, Crypto Currencies
-- 📝[Resume](https://www.jehangirkhan.me)
+- 📝[Resume](https://www.jehangir.me)
 
 </br>
 
