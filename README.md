@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ijehangirkhan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ijehangirkhan)
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ijehangirkhan.ijehangirkhan)
+### Glad to see you here! &nbsp; [![HitCount](https://hits.dwyl.com/ijehangirkhan/ijehangirkhan.svg?style=flat-square)](http://hits.dwyl.com/ijehangirkhan/ijehangirkhan)
 
 I am a DevOps Engineer. I love automating, and writing scripts.
 
@@ -13,10 +13,10 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 
 **Talking about Personal Stuffs:**
 
-- 🏢 I’m currently working as a DevOps Engineer at [Eurus Technologies](https://www.eurustechnologies.com/)
-- 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
+- 🏢 I’m currently working as a DevOps Engineer at [VentureDive](https://www.venturedive.com)
+- 🌱 I’m currently learning Cloud Native Technologies eg. K8's
 - 💬 Ask me about anything, I am happy to help;
-- ⏳ Interests: Travelling, Crypto Currencies
+- ⏳ Interests: Travelling, Photography
 - 📝[Resume](https://www.jehangir.me)
 
 </br>
@@ -39,15 +39,15 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 |Build Tools                   |![](https://img.shields.io/badge/Maven-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/npm-3-9400D3?labelColor=7D898B)                                                                                  |
 |Code Quality                  |![](https://img.shields.io/badge/Sonarqube-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Jacoco-1-blue?labelColor=7D898B)                                                                             |
 |Collaboration                 |![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Confluence-3-9400D3?labelColor=7D898B)                                                                            |
-|Containerization              |![](https://img.shields.io/badge/Docker-3-9400D3?labelColor=7D898B)                                                                                                                                                  |
-|Source Control Tools          |![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Github-3-9400D3?labelColor=7D898B)             |
+|Containerization              |![](https://img.shields.io/badge/Docker-4-9400D3?labelColor=7D898B)                                                                                                                                                  |
+|Source Control Tools          |![](https://img.shields.io/badge/GIT-4-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Github-4-9400D3?labelColor=7D898B)             |
 |Repository Management         |![](https://img.shields.io/badge/Nexus-3-9400D3?labelColor=7D898B)                                                                                                                                                   |
-|Continuous Integration        |![](https://img.shields.io/badge/Jenkins-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab%20CI-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Github%20CI-1-blue?labelColor=7D898B)  |
-|Monitoring and Alerting       |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)             |
+|Continuous Integration        |![](https://img.shields.io/badge/Jenkins-4-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab%20CI-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Github%20CI-4-blue?labelColor=7D898B)  |
+|Monitoring and Alerting       |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-4-9400D3?labelColor=7D898B)             |
 |Configuration Management      |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)                                                                                                                                                 |
-|Infrastructure as Code        |![](https://img.shields.io/badge/Terraform-3-9400D3?labelColor=7D898B)                                                                                                                                               |
+|Infrastructure as Code        |![](https://img.shields.io/badge/Terraform-4-9400D3?labelColor=7D898B)                                                                                                                                               |
 |Web Server                    |![](https://img.shields.io/badge/Nginx-2-green?labelColor=7D898B)                                                                                                                                                    |
-|Scripting Tools               |![](https://img.shields.io/badge/Bash-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-3-9400D3?labelColor=7D898B)                                                                                  |
-|Cloud Services                |![](https://img.shields.io/badge/AWS-3-9400D3?labelColor=7D898B)                                                                                                                                                      |
+|Scripting Tools               |![](https://img.shields.io/badge/Bash-4-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-3-9400D3?labelColor=7D898B)                                                                                  |
+|Cloud Services                |![](https://img.shields.io/badge/AWS-4-9400D3?labelColor=7D898B)                                                                                                                                                      |
 
-⏰ Updated on Wed, 05 Jan 2023 01:30 AM GMT
+⏰ Updated on Thursday, 11 May 2023 04:00 PM PKT
