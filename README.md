@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ijehangirkhan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ijehangirkhan)
 
-### Glad to see you here! &nbsp; ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ijehangirkhan.ijehangirkhan)
+### Glad to see you here! &nbsp; [![HitCount](https://hits.dwyl.com/ijehangirkhan/ijehangirkhan.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ijehangirkhan/ijehangirkhan)
 
 I am a DevOps Engineer. I love automating, and writing scripts.
 
@@ -50,4 +50,4 @@ I am a DevOps Engineer. I love automating, and writing scripts.
 |Scripting Tools               |![](https://img.shields.io/badge/Bash-4-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-3-9400D3?labelColor=7D898B)                                                                                  |
 |Cloud Services                |![](https://img.shields.io/badge/AWS-4-9400D3?labelColor=7D898B)                                                                                                                                                      |
 
-⏰ Updated on Thursday, 11 May 2023 04:00 PM PKT
+⏰ Updated on Tuesday, 06 May 2025 04:00 AM CET
