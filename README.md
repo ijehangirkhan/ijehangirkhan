@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ijehangirkhan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ijehangirkhan)
 
-### Glad to see you here! &nbsp; [![HitCount](https://hits.dwyl.com/ijehangirkhan/ijehangirkhan.svg?style=flat-square)](http://hits.dwyl.com/ijehangirkhan/ijehangirkhan)
+### Glad to see you here! &nbsp; ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ijehangirkhan.ijehangirkhan)
 
 I am a DevOps Engineer. I love automating, and writing scripts.
 
